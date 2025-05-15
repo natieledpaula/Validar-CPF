@@ -57,6 +57,12 @@ validador-cpf/
 
 ---
 
+## 📸 Prévia do Projeto
+
+(https://natieledpaula.github.io/Validar-CPF/)
+
+---
+
 ## 📖 Como funciona a validação?
 
 A lógica implementada segue o algoritmo oficial da Receita Federal:
