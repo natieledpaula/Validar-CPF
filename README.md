@@ -40,7 +40,7 @@ validador-cpf/
 
 ## 📸 Imagem de Prévia
 
-![alt text](assets/img/image.png)
+![alt text](assets/img/normal.png)
 ![alt text](assets/img/erro.png)
 ![alt text](assets/img/certo.png)
 
