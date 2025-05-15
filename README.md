@@ -31,8 +31,6 @@ validador-cpf/
 ├── index.html # Página principal com o formulário
 ├── style.css # Estilo visual da aplicação
 ├── script.js # Validação do CPF
-├── assets/
-│     └──  img # Captura de tela do projeto
 └── README.md # Documentação do projeto
 ```
 
